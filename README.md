@@ -179,10 +179,10 @@ print(me.motto())
 |:---:|:---|:---|
 | 🥇 | **Sports Medalist** | Athletics, Tug of War, Volleyball & Kho-Kho |
 | 👑 | **House Captain** | Led house activities, guided team members |
-| 🎤 | **Event Organizer** | Organized Teachers' Day & school assemblies |
+| 🎤 | **Event Organizer** | Organized Symposium & school events  |
 | 📜 | **Infosys Certifications** | Cyber Security, Data Science, AI — 3 Certifications |
 | 🌐 | **EF SET English Proficiency** | 2 Certificates — Internationally recognized |
-| 🏆 | **Inter-College Tech Events** | Certified participant in multiple competitions |
+| 🏆 | **Inter-College Tech Events** | Certified participant and Winner in multiple competitions  |
 | 📚 | **Academic Excellence** | Sem 1 GPA: **9.00** | Sem 2 GPA: **8.35** |
 
 </div>
