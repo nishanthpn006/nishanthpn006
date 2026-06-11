@@ -90,7 +90,7 @@ print(me.motto())
 
 ![Tamil](https://img.shields.io/badge/Tamil-Fluent-FF5252?style=flat-square)
 ![English](https://img.shields.io/badge/English-Proficient-70A5FD?style=flat-square)
-![Malayalam](https://img.shields.io/badge/Native-38BDAE?style=flat-square)
+![Malayalam](https://img.shields.io/badge/Malayalam-Native-38BDAE?style=flat-square)
 ![Hindi](https://img.shields.io/badge/Hindi-Conversational-BF91F3?style=flat-square)
 
 ---
