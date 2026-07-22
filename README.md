@@ -1,6 +1,6 @@
 <!-- HERO BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nishanth%20P N&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=B.Tech%20IT%20Student%20%7C%20Aspiring%20Technologist%20%7C%20Future%20Builder&descAlignY=62&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nishanth%20P N &fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=B.Tech%20IT%20Student%20%7C%20Aspiring%20Technologist%20%7C%20Future%20Builder&descAlignY=62&descSize=16" width="100%"/>
 </div>
 
 <!-- PROFILE VIEWS + SOCIALS -->
