@@ -128,15 +128,6 @@ print(me.motto())
 
 ---
 
-<!-- TROPHY WALL -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="./profile/trophy.svg" alt="Trophies"/>
-</div>
-
----
-
 <!-- CERTIFICATES -->
 ## 📜 Certifications
 
