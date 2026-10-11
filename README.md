@@ -198,7 +198,7 @@ print(me.motto())
 ## 🌱 Currently Learning
 
 ```
-🍵 Java          →  Advanced OOP, Data Analysis, Scripting
+🍵 Java            →  Basic, DSA , Algorithms
 🧩 DSA             →  Arrays, Linked Lists, Trees, Graph Algorithms
 🤖 AI / ML         →  Supervised Learning, Model Evaluation, scikit-learn
 🌐 Web Dev         →  HTML, CSS, JavaScript Fundamentals
