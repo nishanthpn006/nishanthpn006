@@ -5,8 +5,6 @@
 
 <!-- PROFILE VIEWS + SOCIALS -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nishanthpn006&color=70a5fd&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-  &nbsp;
   <a href="mailto:nishanthpn006@gmail.com"><img src="https://img.shields.io/badge/Gmail-nishanthpn006-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
   &nbsp;
   <a href="https://linkedin.com/in/nishanth-p-n-357003357"><img src="https://img.shields.io/badge/LinkedIn-Nishanth%20PN-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
