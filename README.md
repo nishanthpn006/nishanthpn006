@@ -14,7 +14,7 @@
 
 <!-- TYPING HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hello+World!+I'm+Nishanth+PN+%F0%9F%91%8B;B.Tech+IT+%7C+JJ+College+of+Engineering+%26+Technology;Exploring+Data+Science+%7C+Cyber+Security+%7C+AI;Leader+%7C+Communicator+%7C+Problem+Solver+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hello+World!+I'm+Nishanth+PN+%F0%9F%91%8B;B.Tech+IT+%7C+JJ+College+of+Engineering+%26+Technology;JAVA+%7C+DSA+%7C+AI;Leader+%7C+Communicator+%7C+Problem+Solver+%F0%9F%9A%80" alt="Typing SVG"/>
 </div>
 
 ---
@@ -29,22 +29,22 @@ class Nishanth:
         self.location    = "Tiruchirapalli, Tamil Nadu 🇮🇳"
         self.degree      = "B.Tech Information Technology"
         self.college     = "JJ College of Engineering & Technology"
-        self.gpa         = {"Sem 1": 9.00, "Sem 2": 8.35}
+        self.gpa         = {"Sem 1": 9.00, "Sem 2": 8.35 ,"Sem 3":8.30}
 
         self.stack = [
-            "Python", "C", "Data Science",
-            "Cyber Security", "Artificial Intelligence"
+            "Java", "Python", "C", "Data Science",
+            "Artificial Intelligence"
         ]
 
         self.currently_learning = [
-            "Advanced Python 🐍",
+            "Java 🍵",
             "Data Structures & Algorithms 🧩",
             "Machine Learning Basics 🤖",
             "Web Development 🌐"
         ]
 
         self.languages_spoken = [
-            "Tamil", "English", "Malayalam", "Hindi"
+            "Malayalam", "English", "Tamil", "Hindi"
         ]
 
         self.fun_fact = (
@@ -198,7 +198,7 @@ print(me.motto())
 ## 🌱 Currently Learning
 
 ```
-🐍 Python          →  Advanced OOP, Data Analysis, Scripting
+🍵 Java          →  Advanced OOP, Data Analysis, Scripting
 🧩 DSA             →  Arrays, Linked Lists, Trees, Graph Algorithms
 🤖 AI / ML         →  Supervised Learning, Model Evaluation, scikit-learn
 🌐 Web Dev         →  HTML, CSS, JavaScript Fundamentals
