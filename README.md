@@ -132,7 +132,7 @@ print(me.motto())
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nishanthpn006&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
+  <img src="./profile/trophy.svg" alt="Trophies"/>
 </div>
 
 ---
